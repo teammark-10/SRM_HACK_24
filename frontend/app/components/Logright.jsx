@@ -28,7 +28,7 @@ const Logright = () => {
     const file = e.target.files[0];
     // Handle file upload logic here
     console.log("Uploaded file:", file);
-  
+    Swal.showLoading(Swal.getDenyButton())
     try {
         // Create form data object
         const formData = new FormData();
@@ -119,12 +119,10 @@ const Logright = () => {
           <h1 className="text-4xl flex justify-center font-semibold text-black">
             Upload Student List
           </h1>
-        <button onClick={handleSubmit} className="text-purple-200 h-20 mt-10">
-            {/* <Link href="/dashboard" className="flex gap-2 items-center">
-                <FaUpload />
-                Upload student list
-            </Link> */}
-            upload
+        <button onClick={handleSubmit} className="text-purple-200 h-20 mt-10 flex gap-2 items-center">
+          
+            <FaUpload />
+            Upload student list
         </button>
           <Modal
         isOpen={isOpen}
