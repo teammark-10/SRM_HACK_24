@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070198266308",
+    "project_id": "studiesy",
+    "storage_bucket": "studiesy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070198266308:android:e4dd4f4a6ed8b33e256c91",
+        "android_client_info": {
+          "package_name": "com.example.studiesy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnMCjizFK9rzNBwxa8Lrk7SO7g7poopoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

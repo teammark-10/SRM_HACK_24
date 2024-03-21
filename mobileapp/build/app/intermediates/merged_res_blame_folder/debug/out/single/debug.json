@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.studiesy.app-merged_res-7:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.studiesy.app-main-1:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-merged_res-7:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gouth\\.gradle\\daemon\\7.5\\com.example.studiesy.app-main-1:\\drawable-hdpi\\ic_launcher.png"
+    }
+]

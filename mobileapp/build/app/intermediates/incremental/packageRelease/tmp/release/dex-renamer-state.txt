@@ -1,0 +1,4 @@
+#Thu Mar 21 10:02:27 IST 2024
+base.0=C\:\\Microsoft\\Desktop\\Amigo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
